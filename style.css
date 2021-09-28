@@ -1,6 +1,6 @@
 body{
     background: #F472B6;
-    padding: 2rem;
+    padding: 3rem;
     color: #6D28D9;
     margin: 0 auto;
     text-align: center;
@@ -22,4 +22,8 @@ button{
 
 button:active{
     transform: scale(0.9);
+}
+
+p{
+    font-size: 1.5rem;
 }
